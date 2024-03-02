@@ -1,4 +1,4 @@
-#CREDITS
+# CREDITS
 
 MAIN DEV: BETA666
 THINGS THAT HELPED ME:
@@ -6,7 +6,7 @@ THINGS THAT HELPED ME:
   https://stackoverflow.com/questions/2963263/how-can-i-create-a-simple-message-box-in-python
   https://patorjk.com/software/taag/
 
-#HOW TO USE?
+# HOW TO USE?
 
 install with:
 `pip install usermessagepopup`
