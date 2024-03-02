@@ -1,19 +1,19 @@
-Copyright (c) 2018 The Python Packaging Authority
+#CREDITS:
+MAIN DEV: BETA666
+THINGS THAT HELPED ME:
+  https://packaging.python.org/en/latest/guides/
+  https://stackoverflow.com/questions/2963263/how-can-i-create-a-simple-message-box-in-python
+  https://patorjk.com/software/taag/
+#HOW TO USE?
+install with:
+`pip install usermessagepopup`
+and in your code put:
+`import usermessages`
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+`usermessages.popup("MESSAGE TITLE", "MESSAGE CONTENT", "info")`
+info = type
+all types:
+  error info warning
+you can put:
+`usermessages.textpopup("MESSAGE TITLE", "MESSAGE CONTENT")`
+for this result:
