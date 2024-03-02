@@ -11,8 +11,9 @@ THINGS THAT HELPED ME:
 install with:
 `pip install usermessagepopup`
 and in your code put:
-`import usermessages
-usermessages.popup("MESSAGE TITLE", "MESSAGE CONTENT", "info")`
+`import usermessages`
+
+`usermessages.popup("MESSAGE TITLE", "MESSAGE CONTENT", "info")`
 info = type
 all types:
   error info warning
