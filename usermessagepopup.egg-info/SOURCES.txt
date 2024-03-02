@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+usermessagepopup.egg-info/PKG-INFO
+usermessagepopup.egg-info/SOURCES.txt
+usermessagepopup.egg-info/dependency_links.txt
+usermessagepopup.egg-info/top_level.txt
+usermessages/__init__.py
