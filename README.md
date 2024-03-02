@@ -13,7 +13,9 @@ THINGS THAT HELPED ME:
 # HOW TO USE?
 
 install with:
+
 `pip install usermessagepopup`
+
 and in your code put:
 
 `import usermessages`
