@@ -19,15 +19,4 @@ all types:
   error info warning
 you can put:
 `usermessages.textpopup("MESSAGE TITLE", "LINE 1 CONTENT", "LINE 2 CONTENT")`
-for this result:
-██████████████████████████████████████████████████████████████
-█ MESSAGE TITLE                                              █
-██████████████████████████████████████████████████████████████
-█LINE 1 CONTENT                                              █
-█LINE 2 CONTENT                                              █
-█                                                            █
-█                                                ██████████  █
-█                                                █   OK   █  █
-█                                                ██████████  █
-█                                                            █
-██████████████████████████████████████████████████████████████
+for an ascii text message box with 2 lines!
